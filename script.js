@@ -8,31 +8,31 @@ const WHATSAPP_NUMBER = "918369405815";
 const MENU = [
   {
     name: "Tropical Mix",
-    price: 250,
+    price: 150,
     category: "coconut",
     image: "item-01.jpg"
   },
   {
     name: "Citrus Zest",
-    price: 260,
+    price: 160,
     category: "coconut",
     image: "item-02.jpg"
   },
   {
     name: "Berry Mix",
-    price: 300,
+    price: 200,
     category: "coconut",
     image: "item-03.jpg"
   },
   {
     name: "Desi Mix",
-    price: 310,
+    price: 210,
     category: "coconut",
     image: "item-04.jpg"
   },
   {
     name: "Morning Glow",
-    price: 320,
+    price: 220,
     category: "coconut",
     image: "item-05.jpg"
   },
@@ -44,67 +44,67 @@ const MENU = [
   },
   {
     name: "Clear Coconut Matcha",
-    price: 350,
+    price: 150,
     category: "coconut",
     image: "item-07.jpg"
   },
   {
     name: "Clear Ube Matcha",
-    price: 350,
+    price: 150,
     category: "coconut",
     image: "item-08.jpg"
   },
   {
     name: "Lemon Ice Tea",
-    price: 260,
+    price: 160,
     category: "iced",
     image: "item-09.jpg"
   },
   {
     name: "Peach Ice Tea",
-    price: 280,
+    price: 180,
     category: "iced",
     image: "item-10.jpg"
   },
   {
     name: "Strawberry Ice Tea",
-    price: 300,
+    price: 200,
     category: "iced",
     image: "item-11.jpg"
   },
   {
     name: "Passion Fruit Ice Tea",
-    price: 300,
+    price: 200,
     category: "iced",
     image: "item-12.jpg"
   },
   {
     name: "Tropical Real",
-    price: 270,
+    price: 170,
     category: "tea",
     image: "item-13.jpg"
   },
   {
     name: "Berry Real",
-    price: 280,
+    price: 180,
     category: "tea",
     image: "item-14.jpg"
   },
   {
     name: "Kiwi Splash Real",
-    price: 290,
+    price: 180,
     category: "tea",
     image: "item-15.jpg"
   },
   {
     name: "Pink Dragon Real",
-    price: 290,
+    price: 190,
     category: "tea",
     image: "item-16.jpg"
   },
   {
     name: "Chatpata Guava Real",
-    price: 290,
+    price: 190,
     category: "tea",
     image: "item-17.jpg"
   }
